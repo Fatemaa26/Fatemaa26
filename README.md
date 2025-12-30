@@ -2,8 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-emad-a076772b6/)
 
-### 🛠 My Coding Stats
+### 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=generic-shared&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge)
 
-![Fatema's Stats](https://github-readme-stats.vercel.app/api?username=Fatemaa26&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatemaa26&layout=compact&theme=tokyonight)
+### 📈 Current Focus
+I am currently specializing in **applied cryptography** and **secure UI development**.
