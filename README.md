@@ -31,8 +31,8 @@ I am a **Cybersecurity Student** with a strong interest in network infrastructur
 * **Virtualized Labs:** Building and managing secure environments within **VMware** using **Kali Linux**.
 
 ### 📁 Featured Projects
-* **4-Layer Cryptographic Pipeline:** A university project integrating SHA, DES, AES, and RSA for data protection.
 * **"Shoghlana" Web Prototype:** Developed the frontend and UI for a job portal, focusing on user experience, responsive design, and data visualization.
+* **4-Layer Cryptographic Pipeline:** A university project integrating SHA, DES, AES, and RSA for data protection.
 * **Network Routing & Topology:** Designed and configured multi-router infrastructures utilizing OSPF and EIGRP protocols in Cisco Packet Tracer.
 
 ---
