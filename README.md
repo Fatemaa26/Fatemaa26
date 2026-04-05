@@ -32,8 +32,8 @@ I am a **Cybersecurity Student** with a strong interest in network infrastructur
 
 ### 📁 Featured Projects
 * **4-Layer Cryptographic Pipeline:** A university project integrating SHA, DES, AES, and RSA for data protection.
-* **Network Routing & Topology:** Designed and configured multi-router infrastructures utilizing OSPF and EIGRP protocols in Cisco Packet Tracer.
 * **"Shoghlana" Web Prototype:** Developed the frontend and UI for a job portal, focusing on user experience, responsive design, and data visualization.
+* **Network Routing & Topology:** Designed and configured multi-router infrastructures utilizing OSPF and EIGRP protocols in Cisco Packet Tracer.
 
 ---
 
