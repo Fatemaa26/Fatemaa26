@@ -1,7 +1,7 @@
 <div align="center">
 
-#  Hi, I'm Fatema Abd Al-Hamid! 
-### Cybersecurity Student | Network Infrastructure | Applied Cryptography
+#  Hi, I'm Fatema Emad! 
+### Cybersecurity Student | Network Infrastructure | Secure Protocols
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-emad-a076772b6/)
 
@@ -10,7 +10,7 @@
 </div>
 
 ### 📖 About Me
-I am a **Cybersecurity Student** with a strong interest in network infrastructure and applied cryptography. I spend my time exploring how data stays secure through protocols and code, and I enjoy breaking down complex topics into simple, functional projects.
+I am a **Cybersecurity Student** with a strong interest in network infrastructure and secure communication. I spend my time exploring how data stays protected through network protocols and code, focusing on building functional and secure projects.
 
 ### 🛠 Tech Stack & Tools
 
@@ -26,13 +26,13 @@ I am a **Cybersecurity Student** with a strong interest in network infrastructur
 ---
 
 ### 📚 Academic Focus
-* **Networking:** Practicing dynamic routing (**OSPF & EIGRP**) and Inter-VLAN configurations in Cisco Packet Tracer.
-* **Cryptography:** Learning the implementation of **AES, RSA, and SHA** protocols using `PyCryptodome`.
-* **Environments:** Setting up practice labs within **Kali Linux** virtualized environments.
+* **Network Infrastructure:** Configuring dynamic routing (**OSPF & EIGRP**) and Inter-VLAN communication in Cisco environments.
+* **Security Protocols:** Analyzing and implementing secure communication protocols and their practical application in network defense.
+* **Virtualized Labs:** Building and managing secure environments within **VMware** using **Kali Linux**.
 
 ### 📁 Lab Projects
 * **4-Layer Cryptographic Pipeline:** A university project integrating SHA, DES, AES, and RSA for data protection.
-* **Network Routing Labs:** Simulation of multi-router topologies using OSPF and EIGRP protocols.
+* **Network Routing & Topology:** Designed and configured multi-router infrastructures utilizing OSPF and EIGRP protocols in Cisco Packet Tracer.
 
 ---
 
